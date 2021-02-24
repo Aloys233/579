@@ -1,0 +1,248 @@
+0000.001 (0) Opened log file at time: Wed, 24 Feb 2021 01:04:05 +0000 on http://www.aloys233.ml
+0000.008 (0) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.16.47 WP: 5.6.2 PHP: 7.3.7 (cgi-fcgi, Linux amep2.localdomain 2.6.32-754.33.1.el6.x86_64 #1 SMP Tue Aug 25 15:29:40 UTC 2020 x86_64) MySQL: 5.6.49-log WPLANG: zh_CN Server: msSAFE safe_mode: 0 max_execution_time: 900 memory_limit: 256M (used: 13.6M | 6M) multisite: N openssl: OpenSSL 1.0.1e 11 Feb 2013 mcrypt: N LANG:  ZipArchive::addFile: Y
+0000.016 (0) Free space on disk containing Updraft's temporary directory: Unknown
+0000.023 (0) Tasks: Backup files: 1 (schedule: daily) Backup DB: 1 (schedule: daily)
+0000.034 (0) Semaphore (fd, wp_options) being initialised
+0000.058 (0) Requesting semaphore lock (fd) (apparently not via scheduler)
+0000.072 (0) Set semaphore last lock (fd) time to 2021-02-24 01:04:05
+0000.076 (0) Semaphore lock (fd) complete
+0000.095 (0) Backup run: resumption=0, nonce=8064c7e56da4, file_nonce=8064c7e56da4 begun at=1614128645 (0s ago), job type=backup
+0000.105 (0) Scheduling a resumption (1) after 300 seconds (1614128945) in case this run gets aborted
+0000.204 (0) Checking if we have a zip executable available
+0000.226 (0) Creation of backups of directories: beginning
+0000.297 (0) Beginning creation of dump of plugins (split every: 400 MB)
+0004.036 (0) Total entities for the zip file: 465 directories, 3181 files (0 skipped as non-modified), 49.9 MB
+0004.056 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.1 MB, 1 (1) files added so far); re-opening (prior size: 0 KB)
+0004.172 (0) Zip: backup_2021-02-24-0904_Aloys233_8064c7e56da4-plugins.zip.tmp: 100 files added (on-disk size: 97.2 KB)
+0004.239 (0) Zip: backup_2021-02-24-0904_Aloys233_8064c7e56da4-plugins.zip.tmp: 200 files added (on-disk size: 97.2 KB)
+0004.311 (0) Zip: backup_2021-02-24-0904_Aloys233_8064c7e56da4-plugins.zip.tmp: 300 files added (on-disk size: 97.2 KB)
+0004.382 (0) Zip: backup_2021-02-24-0904_Aloys233_8064c7e56da4-plugins.zip.tmp: 400 files added (on-disk size: 97.2 KB)
+0004.455 (0) Zip: backup_2021-02-24-0904_Aloys233_8064c7e56da4-plugins.zip.tmp: 500 files added (on-disk size: 97.2 KB)
+0004.546 (0) Zip: backup_2021-02-24-0904_Aloys233_8064c7e56da4-plugins.zip.tmp: 600 files added (on-disk size: 97.2 KB)
+0004.615 (0) Zip: backup_2021-02-24-0904_Aloys233_8064c7e56da4-plugins.zip.tmp: 700 files added (on-disk size: 97.2 KB)
+0004.679 (0) Zip: backup_2021-02-24-0904_Aloys233_8064c7e56da4-plugins.zip.tmp: 800 files added (on-disk size: 97.2 KB)
+0004.738 (0) Zip: backup_2021-02-24-0904_Aloys233_8064c7e56da4-plugins.zip.tmp: 900 files added (on-disk size: 97.2 KB)
+0004.801 (0) Zip: backup_2021-02-24-0904_Aloys233_8064c7e56da4-plugins.zip.tmp: 1000 files added (on-disk size: 97.2 KB)
+0004.805 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 1000 files added on this batch (11.7 MB, 3181 files batched, 1001 (1002) added so far); re-opening (prior size: 97.2 KB)
+0007.201 (0) Zip: backup_2021-02-24-0904_Aloys233_8064c7e56da4-plugins.zip.tmp: 1100 files added (on-disk size: 3629.5 KB)
+0007.318 (0) Zip: backup_2021-02-24-0904_Aloys233_8064c7e56da4-plugins.zip.tmp: 1200 files added (on-disk size: 3629.5 KB)
+0007.579 (0) Zip: backup_2021-02-24-0904_Aloys233_8064c7e56da4-plugins.zip.tmp: 1300 files added (on-disk size: 3629.5 KB)
+0007.663 (0) Zip: backup_2021-02-24-0904_Aloys233_8064c7e56da4-plugins.zip.tmp: 1400 files added (on-disk size: 3629.5 KB)
+0007.770 (0) Zip: backup_2021-02-24-0904_Aloys233_8064c7e56da4-plugins.zip.tmp: 1500 files added (on-disk size: 3629.5 KB)
+0007.858 (0) Zip: backup_2021-02-24-0904_Aloys233_8064c7e56da4-plugins.zip.tmp: 1600 files added (on-disk size: 3629.5 KB)
+0007.957 (0) Zip: backup_2021-02-24-0904_Aloys233_8064c7e56da4-plugins.zip.tmp: 1700 files added (on-disk size: 3629.5 KB)
+0008.063 (0) Zip: backup_2021-02-24-0904_Aloys233_8064c7e56da4-plugins.zip.tmp: 1800 files added (on-disk size: 3629.5 KB)
+0008.170 (0) Zip: backup_2021-02-24-0904_Aloys233_8064c7e56da4-plugins.zip.tmp: 1900 files added (on-disk size: 3629.5 KB)
+0008.293 (0) Zip: backup_2021-02-24-0904_Aloys233_8064c7e56da4-plugins.zip.tmp: 2000 files added (on-disk size: 3629.5 KB)
+0008.298 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 1000 files added on this batch (23.7 MB, 3181 files batched, 1001 (2003) added so far); re-opening (prior size: 3629.5 KB)
+0012.174 (0) Zip: backup_2021-02-24-0904_Aloys233_8064c7e56da4-plugins.zip.tmp: 2100 files added (on-disk size: 10469.5 KB)
+0012.302 (0) Zip: backup_2021-02-24-0904_Aloys233_8064c7e56da4-plugins.zip.tmp: 2200 files added (on-disk size: 10469.5 KB)
+0012.386 (0) Zip: backup_2021-02-24-0904_Aloys233_8064c7e56da4-plugins.zip.tmp: 2300 files added (on-disk size: 10469.5 KB)
+0012.518 (0) Zip: backup_2021-02-24-0904_Aloys233_8064c7e56da4-plugins.zip.tmp: 2400 files added (on-disk size: 10469.5 KB)
+0012.607 (0) Zip: backup_2021-02-24-0904_Aloys233_8064c7e56da4-plugins.zip.tmp: 2500 files added (on-disk size: 10469.5 KB)
+0012.689 (0) Zip: backup_2021-02-24-0904_Aloys233_8064c7e56da4-plugins.zip.tmp: 2600 files added (on-disk size: 10469.5 KB)
+0012.762 (0) Zip: backup_2021-02-24-0904_Aloys233_8064c7e56da4-plugins.zip.tmp: 2700 files added (on-disk size: 10469.5 KB)
+0012.843 (0) Zip: backup_2021-02-24-0904_Aloys233_8064c7e56da4-plugins.zip.tmp: 2800 files added (on-disk size: 10469.5 KB)
+0012.915 (0) Zip: backup_2021-02-24-0904_Aloys233_8064c7e56da4-plugins.zip.tmp: 2900 files added (on-disk size: 10469.5 KB)
+0013.054 (0) Zip: backup_2021-02-24-0904_Aloys233_8064c7e56da4-plugins.zip.tmp: 3000 files added (on-disk size: 10469.5 KB)
+0013.064 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 1000 files added on this batch (11.2 MB, 3181 files batched, 1001 (3004) added so far); re-opening (prior size: 10469.5 KB)
+0015.015 (0) Zip: backup_2021-02-24-0904_Aloys233_8064c7e56da4-plugins.zip.tmp: 3100 files added (on-disk size: 15435.4 KB)
+0016.023 (0) Created plugins zip (0) - 16553.5 KB in 15.7 s (1054.3 KB/s) (sha1: 6feda957152e6fef1bd2e4a341f4c43b8744582a, sha256: 8db54ce5c5ca423fe2c38c46ebbcbac91c5b39a9dd53649a7b91bbe165c2c2e0)
+0016.034 (0) Beginning creation of dump of themes (split every: 400 MB)
+0016.520 (0) Total entities for the zip file: 43 directories, 344 files (0 skipped as non-modified), 6.8 MB
+0016.647 (0) Zip: backup_2021-02-24-0904_Aloys233_8064c7e56da4-themes.zip.tmp: 100 files added (on-disk size: 0 KB)
+0016.750 (0) Zip: backup_2021-02-24-0904_Aloys233_8064c7e56da4-themes.zip.tmp: 200 files added (on-disk size: 0 KB)
+0016.873 (0) Zip: backup_2021-02-24-0904_Aloys233_8064c7e56da4-themes.zip.tmp: 300 files added (on-disk size: 0 KB)
+0017.954 (0) Created themes zip (0) - 3622.7 KB in 1.9 s (1893.4 KB/s) (sha1: 390bdc56e61b6e67637b7b7d1cc7beb4f1b2ea5f, sha256: 4cf017ca4a4f04ac04c297ae9a1d9eec531ed2c4b7ebf0a4cae446cc3cc9923f)
+0017.969 (0) Exclusion option setting (uploads): backup*,*backups,backwpup*,wp-clone,snapshots
+0017.972 (0) Looking for candidates to backup in: /home/ftp/s/s4000806/wwwroot/wp-content/uploads
+0017.974 (0) finding files: sucuri: adding to list (1)
+0017.975 (0) finding files: 2021: adding to list (2)
+0017.977 (0) Beginning creation of dump of uploads (split every: 400 MB)
+0018.001 (0) Total entities for the zip file: 3 directories, 7 files (0 skipped as non-modified), 0 MB
+0018.033 (0) Created uploads zip (0) - 3.7 KB in 0.1 s (73 KB/s) (sha1: dd82864fb5e26b50928beed394dadfac53992842, sha256: ee32369d752a77210bebeff888d8b308f568d75da41652487648c4abb7587d8a)
+0018.039 (0) Beginning backup of other directories found in the content directory (index: 0)
+0018.042 (0) Exclusion option setting (others): upgrade,cache,updraft,backup*,*backups,mysql.sql,debug.log
+0018.044 (0) Looking for candidates to backup in: /home/ftp/s/s4000806/wwwroot/wp-content
+0018.047 (0) finding files: advanced-cache.php: adding to list (1)
+0018.049 (0) finding files: wp-cache-config.php: adding to list (2)
+0018.051 (0) finding files: upgrade: skipping: excluded by options
+0018.052 (0) finding files: uploads: skipping: this is the uploads directory
+0018.054 (0) finding files: updraft: skipping: this is the updraft directory
+0018.056 (0) finding files: plugins: skipping: this is the plugins directory
+0018.058 (0) finding files: index.php: adding to list (3)
+0018.061 (0) finding files: themes: skipping: this is the themes directory
+0018.063 (0) finding files: languages: adding to list (4)
+0018.066 (0) finding files: cache: skipping: excluded by options
+0018.108 (0) Total entities for the zip file: 3 directories, 71 files (0 skipped as non-modified), 3.2 MB
+0018.655 (0) Created others zip (0) - 994.5 KB in 0.6 s (1706.8 KB/s) (sha1: f171bdcb72a21c2c25485a3352afef5af0d4e823, sha256: c3a9fc24e43fc9b2496c3635e43b8c6d9c84e9d50bafa32b8655e50e262b9c22)
+0018.677 (0) Saving backup status to database (elements: 8)
+0018.694 (0) Beginning creation of database dump (WordPress DB)
+0018.707 (0) SQL compatibility mode is: NO_ENGINE_SUBSTITUTION
+0018.780 (0) Table wp_options: Total expected rows (approximate): 275
+0018.884 (0) Table wp_options: Rows added in this batch (next record: 466): 278 (uncompressed bytes in this segment=715717) in 0.10 seconds
+0018.915 (0) Table wp_options: finishing file(s) (2, 175.3 KB)
+0018.921 (0) Table wp_users: Total expected rows (approximate): 2
+0018.929 (0) Table wp_users: Rows added in this batch (next record: 3): 3 (uncompressed bytes in this segment=1643) in 0.00 seconds
+0018.937 (0) Table wp_users: finishing file(s) (2, 0.7 KB)
+0018.944 (0) Table wp_usermeta: Total expected rows (approximate): 54
+0018.953 (0) Table wp_usermeta: Rows added in this batch (next record: 57): 55 (uncompressed bytes in this segment=11829) in 0.00 seconds
+0018.963 (0) Table wp_usermeta: finishing file(s) (2, 3.1 KB)
+0018.973 (0) Table wp_commentmeta: Total expected rows (approximate): 9
+0018.987 (0) Table wp_commentmeta: Rows added in this batch (next record: 9): 9 (uncompressed bytes in this segment=1984) in 0.01 seconds
+0018.998 (0) Table wp_commentmeta: finishing file(s) (2, 1 KB)
+0019.008 (0) Table wp_comments: Total expected rows (approximate): 1
+0019.016 (0) Table wp_comments: Rows added in this batch (next record: 2): 2 (uncompressed bytes in this segment=2373) in 0.00 seconds
+0019.028 (0) Table wp_comments: finishing file(s) (2, 1 KB)
+0019.034 (0) Table wp_links: Total expected rows (approximate): 0
+0019.041 (0) Table wp_links: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1310) in 0.00 seconds
+0019.052 (0) Table wp_links: finishing file(s) (2, 0.5 KB)
+0019.059 (0) Table wp_postmeta: Total expected rows (approximate): 38
+0019.065 (0) Table wp_postmeta: Rows added in this batch (next record: 46): 36 (uncompressed bytes in this segment=2231) in 0.00 seconds
+0019.078 (0) Table wp_postmeta: finishing file(s) (2, 0.9 KB)
+0019.088 (0) Table wp_posts: Total expected rows (approximate): 16
+0019.099 (0) Table wp_posts: Rows added in this batch (next record: 18): 17 (uncompressed bytes in this segment=14622) in 0.01 seconds
+0019.108 (0) Table wp_posts: finishing file(s) (2, 4.2 KB)
+0019.113 (0) Table wp_term_relationships: Total expected rows (approximate): 4
+0019.124 (0) Table wp_term_relationships: Rows added in this batch (next record: 100000): 4 (uncompressed bytes in this segment=741) in 0.01 seconds
+0019.136 (0) Table wp_term_relationships: finishing file(s) (2, 0.4 KB)
+0019.145 (0) Table wp_term_taxonomy: Total expected rows (approximate): 4
+0019.152 (0) Table wp_term_taxonomy: Rows added in this batch (next record: 4): 4 (uncompressed bytes in this segment=1019) in 0.00 seconds
+0019.162 (0) Table wp_term_taxonomy: finishing file(s) (2, 0.5 KB)
+0019.177 (0) Table wp_termmeta: Total expected rows (approximate): 0
+0019.187 (0) Table wp_termmeta: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=658) in 0.00 seconds
+0019.204 (0) Table wp_termmeta: finishing file(s) (2, 0.4 KB)
+0019.217 (0) Table wp_terms: Total expected rows (approximate): 3
+0019.222 (0) Table wp_terms: Rows added in this batch (next record: 4): 4 (uncompressed bytes in this segment=803) in 0.00 seconds
+0019.233 (0) Table wp_terms: finishing file(s) (2, 0.5 KB)
+0019.239 (0) Table wp_yoast_indexable: Total expected rows (approximate): 23
+0019.248 (0) Table wp_yoast_indexable: Rows added in this batch (next record: 25): 25 (uncompressed bytes in this segment=13593) in 0.01 seconds
+0019.258 (0) Table wp_yoast_indexable: finishing file(s) (2, 2.7 KB)
+0019.265 (0) Table wp_yoast_indexable_hierarchy: Total expected rows (approximate): 19
+0019.271 (0) Table wp_yoast_indexable_hierarchy: Rows added in this batch (next record: 1000): 20 (uncompressed bytes in this segment=1140) in 0.00 seconds
+0019.279 (0) Table wp_yoast_indexable_hierarchy: finishing file(s) (2, 0.5 KB)
+0019.287 (0) Table wp_yoast_migrations: Total expected rows (approximate): 20
+0019.294 (0) Table wp_yoast_migrations: Rows added in this batch (next record: 21): 21 (uncompressed bytes in this segment=1149) in 0.00 seconds
+0019.331 (0) Table wp_yoast_migrations: finishing file(s) (2, 0.6 KB)
+0019.339 (0) Table wp_yoast_primary_term: Total expected rows (approximate): 0
+0019.350 (0) Table wp_yoast_primary_term: Rows added in this batch (next record: 1): 1 (uncompressed bytes in this segment=992) in 0.01 seconds
+0019.365 (0) Table wp_yoast_primary_term: finishing file(s) (2, 0.5 KB)
+0019.372 (0) Table wp_yoast_seo_links: Total expected rows (approximate): 1
+0019.379 (0) Table wp_yoast_seo_links: Rows added in this batch (next record: 1): 1 (uncompressed bytes in this segment=1140) in 0.00 seconds
+0019.388 (0) Table wp_yoast_seo_links: finishing file(s) (2, 0.5 KB)
+0019.392 (0) backup_2021-02-24-0904_Aloys233_8064c7e56da4-db-table-wp_options.table.tmpr467.gz (1/17): adding to final database dump
+0019.438 (0) backup_2021-02-24-0904_Aloys233_8064c7e56da4-db-table-wp_options.table.gz (2/17): adding to final database dump
+0019.440 (0) backup_2021-02-24-0904_Aloys233_8064c7e56da4-db-table-wp_users.table.tmpr4.gz (3/17): adding to final database dump
+0019.443 (0) backup_2021-02-24-0904_Aloys233_8064c7e56da4-db-table-wp_users.table.gz (4/17): adding to final database dump
+0019.446 (0) backup_2021-02-24-0904_Aloys233_8064c7e56da4-db-table-wp_usermeta.table.tmpr58.gz (5/17): adding to final database dump
+0019.449 (0) backup_2021-02-24-0904_Aloys233_8064c7e56da4-db-table-wp_usermeta.table.gz (6/17): adding to final database dump
+0019.454 (0) backup_2021-02-24-0904_Aloys233_8064c7e56da4-db-table-wp_commentmeta.table.tmpr10.gz (7/17): adding to final database dump
+0019.457 (0) backup_2021-02-24-0904_Aloys233_8064c7e56da4-db-table-wp_commentmeta.table.gz (8/17): adding to final database dump
+0019.462 (0) backup_2021-02-24-0904_Aloys233_8064c7e56da4-db-table-wp_comments.table.tmpr3.gz (9/17): adding to final database dump
+0019.482 (0) backup_2021-02-24-0904_Aloys233_8064c7e56da4-db-table-wp_comments.table.gz (10/17): adding to final database dump
+0019.488 (0) backup_2021-02-24-0904_Aloys233_8064c7e56da4-db-table-wp_links.table.tmpr0.gz (11/17): adding to final database dump
+0019.492 (0) backup_2021-02-24-0904_Aloys233_8064c7e56da4-db-table-wp_links.table.gz (12/17): adding to final database dump
+0019.497 (0) backup_2021-02-24-0904_Aloys233_8064c7e56da4-db-table-wp_postmeta.table.tmpr47.gz (13/17): adding to final database dump
+0019.501 (0) backup_2021-02-24-0904_Aloys233_8064c7e56da4-db-table-wp_postmeta.table.gz (14/17): adding to final database dump
+0019.503 (0) backup_2021-02-24-0904_Aloys233_8064c7e56da4-db-table-wp_posts.table.tmpr19.gz (15/17): adding to final database dump
+0019.506 (0) backup_2021-02-24-0904_Aloys233_8064c7e56da4-db-table-wp_posts.table.gz (16/17): adding to final database dump
+0019.510 (0) backup_2021-02-24-0904_Aloys233_8064c7e56da4-db-table-wp_term_relationships.table.tmpr100001.gz (17/17): adding to final database dump
+0019.512 (0) backup_2021-02-24-0904_Aloys233_8064c7e56da4-db-table-wp_term_relationships.table.gz (18/17): adding to final database dump
+0019.514 (0) backup_2021-02-24-0904_Aloys233_8064c7e56da4-db-table-wp_term_taxonomy.table.tmpr5.gz (19/17): adding to final database dump
+0019.516 (0) backup_2021-02-24-0904_Aloys233_8064c7e56da4-db-table-wp_term_taxonomy.table.gz (20/17): adding to final database dump
+0019.518 (0) backup_2021-02-24-0904_Aloys233_8064c7e56da4-db-table-wp_termmeta.table.tmpr0.gz (21/17): adding to final database dump
+0019.520 (0) backup_2021-02-24-0904_Aloys233_8064c7e56da4-db-table-wp_termmeta.table.gz (22/17): adding to final database dump
+0019.523 (0) backup_2021-02-24-0904_Aloys233_8064c7e56da4-db-table-wp_terms.table.tmpr5.gz (23/17): adding to final database dump
+0019.524 (0) backup_2021-02-24-0904_Aloys233_8064c7e56da4-db-table-wp_terms.table.gz (24/17): adding to final database dump
+0019.526 (0) backup_2021-02-24-0904_Aloys233_8064c7e56da4-db-table-wp_yoast_indexable.table.tmpr26.gz (25/17): adding to final database dump
+0019.529 (0) backup_2021-02-24-0904_Aloys233_8064c7e56da4-db-table-wp_yoast_indexable.table.gz (26/17): adding to final database dump
+0019.530 (0) backup_2021-02-24-0904_Aloys233_8064c7e56da4-db-table-wp_yoast_indexable_hierarchy.table.tmpr1001.gz (27/17): adding to final database dump
+0019.532 (0) backup_2021-02-24-0904_Aloys233_8064c7e56da4-db-table-wp_yoast_indexable_hierarchy.table.gz (28/17): adding to final database dump
+0019.533 (0) backup_2021-02-24-0904_Aloys233_8064c7e56da4-db-table-wp_yoast_migrations.table.tmpr22.gz (29/17): adding to final database dump
+0019.535 (0) backup_2021-02-24-0904_Aloys233_8064c7e56da4-db-table-wp_yoast_migrations.table.gz (30/17): adding to final database dump
+0019.537 (0) backup_2021-02-24-0904_Aloys233_8064c7e56da4-db-table-wp_yoast_primary_term.table.tmpr2.gz (31/17): adding to final database dump
+0019.538 (0) backup_2021-02-24-0904_Aloys233_8064c7e56da4-db-table-wp_yoast_primary_term.table.gz (32/17): adding to final database dump
+0019.541 (0) backup_2021-02-24-0904_Aloys233_8064c7e56da4-db-table-wp_yoast_seo_links.table.tmpr2.gz (33/17): adding to final database dump
+0019.544 (0) backup_2021-02-24-0904_Aloys233_8064c7e56da4-db-table-wp_yoast_seo_links.table.gz (34/17): adding to final database dump
+0019.559 (0) backup_2021-02-24-0904_Aloys233_8064c7e56da4-db.gz: finished writing out complete database file (160 KB)
+0019.578 (0) Total database tables backed up: 17 (backup_2021-02-24-0904_Aloys233_8064c7e56da4-db.gz, size: 192306, sha1: afcc993009f89f663bfc7ade7d8edaef5032c832, sha256: fe11ad813763d4b3bf625111126f3e8dac382d806de4e56b10588cff03ae48e2)
+0019.597 (0) backup_2021-02-24-0904_Aloys233_8064c7e56da4-plugins.zip: plugins: This file has not yet been successfully uploaded: will queue
+0019.601 (0) backup_2021-02-24-0904_Aloys233_8064c7e56da4-themes.zip: themes: This file has not yet been successfully uploaded: will queue
+0019.608 (0) backup_2021-02-24-0904_Aloys233_8064c7e56da4-uploads.zip: uploads: This file has not yet been successfully uploaded: will queue
+0019.610 (0) backup_2021-02-24-0904_Aloys233_8064c7e56da4-others.zip: others: This file has not yet been successfully uploaded: will queue
+0019.612 (0) backup_2021-02-24-0904_Aloys233_8064c7e56da4-db.gz: db: This file has not yet been successfully uploaded: will queue
+0019.614 (0) Saving backup history. Total backup size: 20.9 MB
+0019.620 (0) Requesting upload of the files that have not yet been successfully uploaded (5)
+0019.629 (0) Cloud backup selection (1/1): googledrive with instance (1/1) (last)
+0019.633 (0) Beginning dispatch of backup to remote (googledrive) (instance identifier s-cc1ad62b7c4640ee6b4bbbfa067e6285)
+0021.967 (0) Google Drive: quota usage: used=45.6 MB, total=15360 MB, available=15314.4 MB
+0021.971 (0) Google Drive: backup_2021-02-24-0904_Aloys233_8064c7e56da4-plugins.zip: Attempting to upload to Google Drive (into folder id: 1h4vmmhSiNJ_Zsht-3UwfCWS14FwIBXdY)
+0022.737 (0) Googledrive chunked upload: 6.2 % uploaded (1048576)
+0023.109 (0) Googledrive chunked upload: 12.4 % uploaded (2097152)
+0023.525 (0) Googledrive chunked upload: 18.6 % uploaded (3145728)
+0023.984 (0) Googledrive chunked upload: 24.7 % uploaded (4194304)
+0024.363 (0) Googledrive chunked upload: 30.9 % uploaded (5242880)
+0024.787 (0) Googledrive chunked upload: 37.1 % uploaded (6291456)
+0025.159 (0) Googledrive chunked upload: 43.3 % uploaded (7340032)
+0025.466 (0) Googledrive chunked upload: 49.5 % uploaded (8388608)
+0025.819 (0) Googledrive chunked upload: 55.7 % uploaded (9437184)
+0026.246 (0) Googledrive chunked upload: 61.9 % uploaded (10485760)
+0026.649 (0) Googledrive chunked upload: 68 % uploaded (11534336)
+0027.022 (0) Googledrive chunked upload: 74.2 % uploaded (12582912)
+0027.431 (0) Googledrive chunked upload: 80.4 % uploaded (13631488)
+0027.798 (0) Googledrive chunked upload: 86.6 % uploaded (14680064)
+0028.147 (0) Googledrive chunked upload: 92.8 % uploaded (15728640)
+0028.498 (0) Googledrive chunked upload: 99 % uploaded (16777216)
+0029.842 (0) Googledrive chunked upload: 100 % uploaded (16777216)
+0029.850 (0) Google Drive: OK: Archive backup_2021-02-24-0904_Aloys233_8064c7e56da4-plugins.zip uploaded in 7.87 seconds
+0029.852 (0) Recording as successfully uploaded: backup_2021-02-24-0904_Aloys233_8064c7e56da4-plugins.zip
+0029.857 (0) Deleting local file: backup_2021-02-24-0904_Aloys233_8064c7e56da4-plugins.zip: OK
+0030.045 (0) Google Drive: quota usage: used=61.7 MB, total=15360 MB, available=15298.3 MB
+0030.048 (0) Google Drive: backup_2021-02-24-0904_Aloys233_8064c7e56da4-themes.zip: Attempting to upload to Google Drive (into folder id: 1h4vmmhSiNJ_Zsht-3UwfCWS14FwIBXdY)
+0030.715 (0) Googledrive chunked upload: 28.3 % uploaded (1048576)
+0031.042 (0) Googledrive chunked upload: 56.5 % uploaded (2097152)
+0031.397 (0) Googledrive chunked upload: 84.8 % uploaded (3145728)
+0032.552 (0) Googledrive chunked upload: 100 % uploaded (3145728)
+0032.561 (0) Google Drive: OK: Archive backup_2021-02-24-0904_Aloys233_8064c7e56da4-themes.zip uploaded in 2.5 seconds
+0032.570 (0) Recording as successfully uploaded: backup_2021-02-24-0904_Aloys233_8064c7e56da4-themes.zip
+0032.578 (0) Deleting local file: backup_2021-02-24-0904_Aloys233_8064c7e56da4-themes.zip: OK
+0032.784 (0) Google Drive: quota usage: used=65.3 MB, total=15360 MB, available=15294.7 MB
+0032.798 (0) Google Drive: backup_2021-02-24-0904_Aloys233_8064c7e56da4-uploads.zip: Attempting to upload to Google Drive (into folder id: 1h4vmmhSiNJ_Zsht-3UwfCWS14FwIBXdY)
+0034.000 (0) Googledrive chunked upload: 100 % uploaded
+0034.016 (0) Google Drive: OK: Archive backup_2021-02-24-0904_Aloys233_8064c7e56da4-uploads.zip uploaded in 1.21 seconds
+0034.018 (0) Recording as successfully uploaded: backup_2021-02-24-0904_Aloys233_8064c7e56da4-uploads.zip
+0034.022 (0) Deleting local file: backup_2021-02-24-0904_Aloys233_8064c7e56da4-uploads.zip: OK
+0034.239 (0) Google Drive: quota usage: used=65.3 MB, total=15360 MB, available=15294.7 MB
+0034.241 (0) Google Drive: backup_2021-02-24-0904_Aloys233_8064c7e56da4-others.zip: Attempting to upload to Google Drive (into folder id: 1h4vmmhSiNJ_Zsht-3UwfCWS14FwIBXdY)
+0035.607 (0) Googledrive chunked upload: 100 % uploaded
+0035.617 (0) Google Drive: OK: Archive backup_2021-02-24-0904_Aloys233_8064c7e56da4-others.zip uploaded in 1.37 seconds
+0035.619 (0) Recording as successfully uploaded: backup_2021-02-24-0904_Aloys233_8064c7e56da4-others.zip
+0035.626 (0) Deleting local file: backup_2021-02-24-0904_Aloys233_8064c7e56da4-others.zip: OK
+0035.856 (0) Google Drive: quota usage: used=65.3 MB, total=15360 MB, available=15294.7 MB
+0035.859 (0) Google Drive: backup_2021-02-24-0904_Aloys233_8064c7e56da4-db.gz: Attempting to upload to Google Drive (into folder id: 1h4vmmhSiNJ_Zsht-3UwfCWS14FwIBXdY)
+0037.078 (0) Googledrive chunked upload: 100 % uploaded
+0037.085 (0) Google Drive: OK: Archive backup_2021-02-24-0904_Aloys233_8064c7e56da4-db.gz uploaded in 1.23 seconds
+0037.088 (0) Recording as successfully uploaded: backup_2021-02-24-0904_Aloys233_8064c7e56da4-db.gz
+0037.095 (0) Deleting local file: backup_2021-02-24-0904_Aloys233_8064c7e56da4-db.gz: OK
+0037.106 (0) Retain: beginning examination of existing backup sets; user setting: retain_files=2, retain_db=2
+0037.110 (0) These backup set(s) were imported from a remote location, so will not be counted or pruned. Skipping: 1614041880, 1613908740
+0037.112 (0) Number of backup sets in history: 3; groups (db): 1
+0037.114 (0) Examining (for databases) backup set with group_id=0, nonce=8064c7e56da4, datestamp=1614128645 (Feb 24 2021 01:04:05)
+0037.117 (0) This backup set is the backup set just made, so will not be deleted.
+0037.117 (0) Number of backup sets in history: 3; groups (files): 1
+0037.119 (0) Examining (for files) backup set with nonce=8064c7e56da4, datestamp=1614128645 (Feb 24 2021 01:04:05)
+0037.119 (0) This backup set is the backup set just made, so will not be deleted.
+0037.121 (0) This backup set is the backup set just made, so will not be deleted.
+0037.121 (0) This backup set is the backup set just made, so will not be deleted.
+0037.122 (0) This backup set is the backup set just made, so will not be deleted.
+0037.122 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0037.124 (0) Retain: saving new backup history (sets now: 3) and finishing retain operation
+0037.138 (0) Resume backup (8064c7e56da4, 0): finish run
+0037.147 (0) Decremented the semaphore (fd) by 1
+0037.152 (0) Semaphore (fd) unlocked
+0037.154 (0) There were no errors in the uploads, so the 'resume' event (1) is being unscheduled
+0037.162 (0) The backup apparently succeeded and is now complete
+0037.165 (0) Fetching RSS news feed
+0037.460 (0) Fetched RSS news feed; result is a: SimplePie
+0037.521 (0) Sending email ('文件和数据库 (完全备份)') report (attachments: 0, size: 0 KB) to: L2394...
+0037.666 (0) 备份显然是成功的，现在已经完成了。
