@@ -4325,3 +4325,12 @@ function argon_login_page_style() {
 if (get_option('argon_enable_login_css') == 'true'){
 	add_action('login_head', 'argon_login_page_style');
 }
+* refused spam */  
+function refused_spam_comments( $comment_data ) {  
+$pattern = '/[一-龥]/u';  
+if(!preg_match($pattern,$comment_data['comment_content'])) {  
+wp_die('评论必须含中文！');  
+}  
+return( $comment_data );  
+}  
+add_filter('preprocess_comment','refused_spam_comments');
