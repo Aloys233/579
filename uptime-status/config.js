@@ -5,7 +5,7 @@ window.Config = {
   SiteName: 'Aloys233 Status',
 
   // 站点链接
-  SiteUrl: 'https://www.aloys233.ml',
+  SiteUrl: 'https://aloys233.top',
 
   // UptimeRobot Api 域名
   // 只需填写域名部分，默认为官网域名
@@ -20,6 +20,7 @@ window.Config = {
     'm788010954-40421832870e4108aa079286',
     'm787982172-fe3fd1a7662cf995970dc2b1',
     'm788002221-6f438bd90e36249212b31fec',
+    'm788761677-bdd03daf85704730731e0e39',
   ],
 
   // 是否显示监测站点的链接
@@ -34,7 +35,7 @@ window.Config = {
   Navi: [
     {
       text: 'Blog',
-      url: 'https://blog.aloys233.ml'
+      url: 'https://blog.aloys233.top'
     }
   ]
 };
